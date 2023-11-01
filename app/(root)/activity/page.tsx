@@ -32,7 +32,7 @@ async function Page() {
                     className='rounded-full object-cover'
                   />
                   <p className='!text-small-regular text-light-1'>
-                    <span className='mr-1 text-primary-500'>
+                    <span className='mr-1 text-custom-blue'>
                       {activity.author.name}
                     </span>{" "}
                     replied to your thread
