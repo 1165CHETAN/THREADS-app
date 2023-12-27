@@ -1,6 +1,6 @@
 
 ## WeaveHub-Chat application
-### [live_link](https://chetan-crud-app.netlify.app/)      |    [demo_video](https://chetan-crud-app.netlify.app/) 
+### [live_link](https://weavehub-chetan.vercel.app/)      |    [demo_video](https://www.canva.com/design/DAFzeKzgcmM/9qZYKqJ71iccpnmVwJ7fZQ/watch?utm_content=DAFzeKzgcmM&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
 
 
 "Welcome to WeaveHub a new era of collaborative chatting with our unique thread-based chat application!"
